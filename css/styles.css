@@ -62,7 +62,7 @@ body {
 .container .content .drawers {
   width: 80%;
   height: auto;
-  background-image: url(/images/drawers.jpg);
+  background-image: url(../images/drawers.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -72,7 +72,7 @@ body {
     height: 250px;
     background-size: cover;
     background-position: 50% 20%;
-    background-image: url(/images/drawers.jpg);
+    background-image: url(../images/drawers.jpg);
   }
 }
 .container .content .profile {
